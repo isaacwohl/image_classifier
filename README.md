@@ -1,7 +1,7 @@
 # Developing an AI application
-This is a Deep Learning project for Udacity’s “Machine Learning – Introduction” nanodegree program. The project is to create AI algorithms that can recognize different species of flowers. It uses a [dataset](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html) of 102 flower categories created by Maria-Elena Nislback and Andrew Zisserman at the University of Oxford's Visual Geometry group.
+This is a Deep Learning project for Udacity’s “Machine Learning – Introduction” nanodegree program. The project is to create AI algorithms that can recognize different species of flowers. It uses a [dataset](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html) of 102 flower categories created by Maria-Elena Nilsback and Andrew Zisserman at the University of Oxford's Visual Geometry group.
 
-This exercise had two parts. In the first, I loaded and preprocessed the image dataset, trained the image classifier on the dataset, and used the trained classifier to predict image content. For the model architecture I primarily used [VGG16](https://pytorch.org/docs/master/torchvision/models.html) with two hidden layers. In the second, I wrote two Python scripts that run from the command line: one trains a new network on the dataset and saves the model as a checkpoint, and the other uses the trained network to predict the class for an input image.
+This exercise has two parts. In the first, I loaded and preprocessed the image dataset, trained the image classifier on the dataset, and used the trained classifier to predict image content. For the model architecture I primarily used [VGG16](https://pytorch.org/docs/master/torchvision/models.html) with two hidden layers. In the second, I wrote two Python scripts that run from the command line: one trains a new network on the dataset and saves the model as a checkpoint, and the other uses the trained network to predict the class for an input image.
 
 I used Python 3.6.9.
 
