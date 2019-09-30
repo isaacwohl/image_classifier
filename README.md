@@ -9,14 +9,14 @@ This project was reviewed by a Udacity reviewer.
 
 I used the following sources for ideas and assistance:
 
-Barnes, Rebecca. ["Image Classifier Project."](https://github.com/rebeccaebarnes/DSND-Project-2) GitHub, 2018. 
-Bernhard, Josh. ["Deep Learning with PyTorch."](https://medium.com/@josh_2774/deep-learning-with-pytorch-9574e74d17ad) Medium, 2018. 
-Bonner, Anne. ["Load That Checkpoint."](https://towardsdatascience.com/load-that-checkpoint-51142d44fb5d) Towards Data Science, 2019. 
-Bonner, Anne. ["Creating a PyTorch Image Classifier."](https://medium.com/datadriveninvestor/creating-a-pytorch-image-classifier-da9db139ba80) Data Driven Investor, 2018. 
-Hassan, Najeeb. ["Image Classifier Project."](https://www.najeebhassan.com/ImageClassifierProject.html) n.d. 
+Barnes, Rebecca. ["Image Classifier Project."](https://github.com/rebeccaebarnes/DSND-Project-2) GitHub, 2018.
+Bernhard, Josh. ["Deep Learning with PyTorch."](https://medium.com/@josh_2774/deep-learning-with-pytorch-9574e74d17ad) Medium, 2018.
+Bonner, Anne. ["Load That Checkpoint."](https://towardsdatascience.com/load-that-checkpoint-51142d44fb5d) Towards Data Science, 2019.
+Bonner, Anne. ["Creating a PyTorch Image Classifier."](https://medium.com/datadriveninvestor/creating-a-pytorch-image-classifier-da9db139ba80) Data Driven Investor, 2018.
+Hassan, Najeeb. ["Image Classifier Project."](https://www.najeebhassan.com/ImageClassifierProject.html) n.d.
 Howie. ["Classifying Flower Species Using PyTorch."](http://howieko.com/projects/classifying_flowers_pytorch/) Howieko.com, 2019.
-Joshi, Kanchan. ["Image Classifier Project."](https://github.com/koderjoker/Image-Classifier) GitHub, 2018. 
+Joshi, Kanchan. ["Image Classifier Project."](https://github.com/koderjoker/Image-Classifier) GitHub, 2018.
 Kapotos, Fotis. ["Image Classifier Project."](https://github.com/fotisk07/Image-Classifier) GitHub, 2018.
-Kussainov, Talgat. ["Image Classifier Project."](https://github.com/Kusainov/udacity-image-classification) GitHub, 2018. 
+Kussainov, Talgat. ["Image Classifier Project."](https://github.com/Kusainov/udacity-image-classification) GitHub, 2018.
 Styluna 7. ["PyTorchFB-Lab."](https://github.com/styluna7/pytorchfb-lab) Github, 2019.
 Tabor, Sean. ["Image Classifier Project."](https://github.com/S-Tabor/udacity-image-classifier-project) GitHub, 2018. 
