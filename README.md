@@ -7,6 +7,7 @@ I used Python 3.6.9.
 
 This project was reviewed by a Udacity reviewer.
 
+
 I used the following sources for ideas and assistance:
 
 Barnes, Rebecca. ["Image Classifier Project."](https://github.com/rebeccaebarnes/DSND-Project-2) GitHub, 2018.
